@@ -1,4 +1,5 @@
 # Munro-Bagger-App
 
-An app that allows users to find information about the 282 Munros (mountains in Scotland) and track their progress of walking all of them. 
-The Munro information in this app is from the Hill Bagger API
+Munro Bagger is an Kotlin application, for walkers to log their assents of the 282 scottish munros (mountians). The application provides a searchable list of munros, that display the munros name location and height. 
+
+Progress was stopped on this project and the application was recreated using React Native (Munro-Bagger-React).  
