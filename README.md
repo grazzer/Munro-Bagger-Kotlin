@@ -1,4 +1,5 @@
-# Munro-Bagger-App
+# Munro Bagger
+Kotlin
 
 <a href="url"><img src="https://github.com/user-attachments/assets/e8f74406-1679-4341-8ff1-438af7c3dfba" align="left" width="100%" ></a>
 
